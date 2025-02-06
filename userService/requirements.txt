@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+asyncpg
+redis
+passlib
+bcrypt
+python-jose
+grpcio
+grpcio-tools
